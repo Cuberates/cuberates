@@ -1,6 +1,6 @@
 
 <pre>
-<b> jacknguyen@cuberates ~ <b>neofetch
+<b> cuberates@github ~ <b>neofetch
              ..=                               <b>Xuan Viet Duc Nguyen</b>
             ...+**                             <b>Host</b>: Apple M1 MacBook Air (2020)
            ..:+*##                             
@@ -22,5 +22,5 @@
       ###############   =======                
        =========            == 
   
-<b> jacknguyen@cuberates ~ <b> █
+<b> cuberates@github ~ <b> █
 </pre>
