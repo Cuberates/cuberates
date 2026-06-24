@@ -1,7 +1,6 @@
 
 <pre>
 <b> jacknguyen@cuberates ~ <b>neofetch
-
              ..=                               <b>Xuan Viet Duc Nguyen</b>: macOS 
             ...+**                             <b>Host</b>: Apple M1 MacBook Air (2020)
            ..:+*##                             
