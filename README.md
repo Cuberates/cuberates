@@ -1,7 +1,7 @@
 
 <pre>
 <b> jacknguyen@cuberates ~ <b>neofetch
-             ..=                               <b>Xuan Viet Duc Nguyen</b>: macOS 
+             ..=                               <b>Xuan Viet Duc Nguyen</b>
             ...+**                             <b>Host</b>: Apple M1 MacBook Air (2020)
            ..:+*##                             
          ....++####                            <b>Shell</b>: zsh 5.9 (with Neovim)
