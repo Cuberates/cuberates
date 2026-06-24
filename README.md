@@ -6,7 +6,7 @@
            ..:+*##                             
          ....++####                            <b>Shell</b>: zsh 5.9 (with Neovim)
          ...++*####=  ==      ......           <b>Compiler</b>: g++ 14.1.0 (-O3 -std=c++20)
-        ...+++=*==========-.....-++*           <b>Editor</b>: Neovim
+        ...+++=*==========-.....-++*           <b>Editor</b>: Neovim / VSCode
        ..==+===========:.....=+++###           <b>Debugger</b>: gdb
        .============-.....++++#####            <b>CPU</b>: Apple M1 (8 cores)
       .--..............:++++######             <b>GPU</b>: Apple M1 Integrated
